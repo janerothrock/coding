@@ -1,0 +1,24 @@
+  570  which git
+  571  cd projects/
+  572  ls
+  573  git clone https://github.com/janerothrock/coding.git
+  574  ls
+  575  git status
+  576  cd coding
+  577  ls
+  578  git status
+  579  ls
+  580  cd ../
+  581  ls
+  582  cd coding/
+  583  cp ../coding_essentials/ .
+  584  cp -r ../coding_essentials/ .
+  585  ls
+  586  git status
+  587  git add coding_essentials/
+  588  git status
+  589  git commit -m "[ADD] Adding coding practice files"
+  590  git status
+  591  git push 
+  592  git log
+  593  history >> prac8.txt
