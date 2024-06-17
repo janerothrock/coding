@@ -1,0 +1,148 @@
+.
+├── forloops_example.sh
+├── output_prac4-1.txt
+├── output_prac4-2.txt
+├── prac4-1.sh
+├── prac4-2.sh
+├── sub-1
+│   ├── ses-a
+│   │   ├── sub-1_ses-a_file-1_bar.txt
+│   │   ├── sub-1_ses-a_file-2_bar.txt
+│   │   ├── sub-1_ses-a_file-3_bar.txt
+│   │   └── sub-1_ses-a_file-4_bar.txt
+│   ├── ses-b
+│   │   ├── sub-1_ses-b_file-1_bar.txt
+│   │   ├── sub-1_ses-b_file-2_bar.txt
+│   │   ├── sub-1_ses-b_file-3_bar.txt
+│   │   └── sub-1_ses-b_file-4_bar.txt
+│   └── ses-c
+│       ├── sub-1_ses-c_file-1_bar.txt
+│       ├── sub-1_ses-c_file-2_bar.txt
+│       ├── sub-1_ses-c_file-3_bar.txt
+│       └── sub-1_ses-c_file-4_bar.txt
+├── sub-2
+│   ├── ses-a
+│   │   ├── sub-2_ses-a_file-1_bar.txt
+│   │   ├── sub-2_ses-a_file-2_bar.txt
+│   │   ├── sub-2_ses-a_file-3_bar.txt
+│   │   └── sub-2_ses-a_file-4_bar.txt
+│   ├── ses-b
+│   │   ├── sub-2_ses-b_file-1_bar.txt
+│   │   ├── sub-2_ses-b_file-2_bar.txt
+│   │   ├── sub-2_ses-b_file-3_bar.txt
+│   │   └── sub-2_ses-b_file-4_bar.txt
+│   └── ses-c
+│       ├── sub-2_ses-c_file-1_bar.txt
+│       ├── sub-2_ses-c_file-2_bar.txt
+│       ├── sub-2_ses-c_file-3_bar.txt
+│       └── sub-2_ses-c_file-4_bar.txt
+├── sub-3
+│   ├── ses-a
+│   │   ├── sub-3_ses-a_file-1_bar.txt
+│   │   ├── sub-3_ses-a_file-2_bar.txt
+│   │   ├── sub-3_ses-a_file-3_bar.txt
+│   │   └── sub-3_ses-a_file-4_bar.txt
+│   ├── ses-b
+│   │   ├── sub-3_ses-b_file-1_bar.txt
+│   │   ├── sub-3_ses-b_file-2_bar.txt
+│   │   ├── sub-3_ses-b_file-3_bar.txt
+│   │   └── sub-3_ses-b_file-4_bar.txt
+│   └── ses-c
+│       ├── sub-3_ses-c_file-1_bar.txt
+│       ├── sub-3_ses-c_file-2_bar.txt
+│       ├── sub-3_ses-c_file-3_bar.txt
+│       └── sub-3_ses-c_file-4_bar.txt
+├── sub-4
+│   ├── ses-a
+│   │   ├── sub-4_ses-a_file-1_bar.txt
+│   │   ├── sub-4_ses-a_file-2_bar.txt
+│   │   ├── sub-4_ses-a_file-3_bar.txt
+│   │   └── sub-4_ses-a_file-4_bar.txt
+│   ├── ses-b
+│   │   ├── sub-4_ses-b_file-1_bar.txt
+│   │   ├── sub-4_ses-b_file-2_bar.txt
+│   │   ├── sub-4_ses-b_file-3_bar.txt
+│   │   └── sub-4_ses-b_file-4_bar.txt
+│   └── ses-c
+│       ├── sub-4_ses-c_file-1_bar.txt
+│       ├── sub-4_ses-c_file-2_bar.txt
+│       ├── sub-4_ses-c_file-3_bar.txt
+│       └── sub-4_ses-c_file-4_bar.txt
+└── sub-5
+    ├── ses-a
+    │   ├── sub-5_ses-a_file-1_bar.txt
+    │   ├── sub-5_ses-a_file-2_bar.txt
+    │   ├── sub-5_ses-a_file-3_bar.txt
+    │   └── sub-5_ses-a_file-4_bar.txt
+    ├── ses-b
+    │   ├── sub-5_ses-b_file-1_bar.txt
+    │   ├── sub-5_ses-b_file-2_bar.txt
+    │   ├── sub-5_ses-b_file-3_bar.txt
+    │   └── sub-5_ses-b_file-4_bar.txt
+    └── ses-c
+        ├── sub-5_ses-c_file-1_bar.txt
+        ├── sub-5_ses-c_file-2_bar.txt
+        ├── sub-5_ses-c_file-3_bar.txt
+        └── sub-5_ses-c_file-4_bar.txt
+
+20 directories, 65 files
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
+foo bar
